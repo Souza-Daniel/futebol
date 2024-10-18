@@ -5,16 +5,16 @@ id,Time,Estado
 4,Palmeiras,"São Paulo, São Paulo, Brasil"
 5,Guarani,"Campinas, São Paulo, Brasil"
 6,Santos FC,"Santos, São Paulo, Brasil"
-7,Barueri,"Barueri, São Paulo, Brasil"
+7,Barueri,
 8,EC Vitória,"Salvador, Bahia, Brasil"
 9,Goiás EC,"Goiânia, Goiás, Brasil"
 10,Avaí FC,"Florianópolis, Santa Catarina, Brasil"
-11,Cruzeiro,"Belo Horizonte, Minas Gerais, Brasil"
+11,Cruzeiro,
 12,Corinthians,"São Paulo, São Paulo, Brasil"
 13,Grêmio,"Porto Alegre, Rio Grande do Sul, Brasil"
 14,Vasco da Gama,"Bairro Vasco da Gama,
 Rio de Janeiro, Brasil"
-15,Atlético-GO,"Goiânia, Goiás, Brasil"
+15,Atlético-GO,
 16,Botafogo,"Rio de Janeiro, Rio de Janeiro, Brasil"
 17,Ceará SC,"Fortaleza, Ceará, Brasil"
 18,Fluminense,"Rio de Janeiro, Rio de Janeiro, Brasil"
@@ -22,16 +22,16 @@ Rio de Janeiro, Brasil"
 20,Atlético-MG,"Belo Horizonte, Minas Gerais, Brasil"
 21,Athletico-PR,"Curitiba, Paraná, Brasil"
 22,Goiás,"Goiânia, Goiás, Brasil"
-23,EC Bahia,"Salvador, Bahia, Brasil"
+23,EC Bahia,
 24,Coritiba FC,"Curitiba, Paraná, Brasil"
 25,Santos,"Santos, São Paulo, Brasil"
 26,RB Bragantino,"Bragança Paulista, São Paulo, Brasil"
-27,Fortaleza,"Fortaleza, Ceará, Brasil"
+27,Fortaleza,
 28,América-MG,"Belo Horizonte, Minas Gerais, Brasil"
 29,Cuiabá-MT,"Cuiabá, Mato Grosso, Brasil"
 30,Figueirense FC,"Florianópolis, Santa Catarina, Brasil"
 31,Juventude,"Caxias do Sul, Rio Grande do Sul, Brasil"
-32,Náutico,"Recife, Pernambuco, Brasil"
+32,Náutico,
 33,Portuguesa,"São Paulo, São Paulo, Brasil"
 34,Ponte Preta,"Campinas, São Paulo, Brasil"
 35,Sport Recife,"Recife, Pernambuco, Brasil"
@@ -39,11 +39,11 @@ Rio de Janeiro, Brasil"
 37,Criciúma EC,"Criciúma, Santa Catarina, Brasil"
 38,Paraná,
 39,Paysandu SC,"Belém, Pará, Brasil"
-40,São Caetano,"São Caetano do Sul, São Paulo, Brasil"
+40,São Caetano,
 41,Brasiliense-DF,"Taguatinga, Distrito Federal, Brasil"
-42,Santa Cruz,"Recife, Pernambuco, Brasil"
-43,Joinville-SC,"Joinville, Santa Catarina, Brasil"
-44,América-RN,"Natal, Rio Grande do Norte, Brasil"
+42,Santa Cruz,
+43,Joinville-SC,
+44,América-RN,
 45,Santo André,"Santo André, São Paulo, Brasil"
-46,CSA,"Maceió, Alagoas, Brasil"
-47,Ipatinga FC,"Ipatinga, Brasil"
+46,CSA,
+47,Ipatinga FC,
