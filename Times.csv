@@ -1,4 +1,4 @@
-id,Time,Estado
+id,Time,Localização
 1,Flamengo,"Rio de Janeiro, Rio de Janeiro, Brasil"
 2,Internacional,"Porto Alegre, Rio Grande do Sul, Brasil"
 3,São Paulo,"São Paulo, São Paulo, Brasil"
@@ -12,8 +12,7 @@ id,Time,Estado
 11,Cruzeiro,"Belo Horizonte, Minas Gerais, Brasil"
 12,Corinthians,"São Paulo, São Paulo, Brasil"
 13,Grêmio,"Porto Alegre, Rio Grande do Sul, Brasil"
-14,Vasco da Gama,"Bairro Vasco da Gama,
-Rio de Janeiro, Brasil"
+14,Vasco da Gama,"Bairro Vasco da Gama, Rio de Janeiro, Brasil"
 15,Atlético-GO,"Goiânia, Goiás, Brasil"
 16,Botafogo,"Rio de Janeiro, Rio de Janeiro, Brasil"
 17,Ceará SC,"Fortaleza, Ceará, Brasil"
