@@ -1,48 +1,48 @@
-id,Time,Localização
-1,Flamengo,"Rio de Janeiro, Rio de Janeiro, Brasil"
-2,Internacional,"Porto Alegre, Rio Grande do Sul, Brasil"
-3,São Paulo,"São Paulo, São Paulo, Brasil"
-4,Palmeiras,"São Paulo, São Paulo, Brasil"
-5,Guarani,"Campinas, São Paulo, Brasil"
-6,Santos FC,"Santos, São Paulo, Brasil"
-7,Barueri,"Barueri, São Paulo, Brasil"
-8,EC Vitória,"Salvador, Bahia, Brasil"
-9,Goiás EC,"Goiânia, Goiás, Brasil"
-10,Avaí FC,"Florianópolis, Santa Catarina, Brasil"
-11,Cruzeiro,"Belo Horizonte, Minas Gerais, Brasil"
-12,Corinthians,"São Paulo, São Paulo, Brasil"
-13,Grêmio,"Porto Alegre, Rio Grande do Sul, Brasil"
-14,Vasco da Gama,"Bairro Vasco da Gama, Rio de Janeiro, Brasil"
-15,Atlético-GO,"Goiânia, Goiás, Brasil"
-16,Botafogo,"Rio de Janeiro, Rio de Janeiro, Brasil"
-17,Ceará SC,"Fortaleza, Ceará, Brasil"
-18,Fluminense,"Rio de Janeiro, Rio de Janeiro, Brasil"
-19,Atlético-PR,"Curitiba, Paraná, Brasil"
-20,Atlético-MG,"Belo Horizonte, Minas Gerais, Brasil"
-21,Athletico-PR,"Curitiba, Paraná, Brasil"
-22,Goiás,"Goiânia, Goiás, Brasil"
-23,EC Bahia,"Salvador, Bahia, Brasil"
-24,Coritiba FC,"Curitiba, Paraná, Brasil"
-25,Santos,"Santos, São Paulo, Brasil"
-26,RB Bragantino,"Bragança Paulista, São Paulo, Brasil"
-27,Fortaleza,"Fortaleza, Ceará, Brasil"
-28,América-MG,"Belo Horizonte, Minas Gerais, Brasil"
-29,Cuiabá-MT,"Cuiabá, Mato Grosso, Brasil"
-30,Figueirense FC,"Florianópolis, Santa Catarina, Brasil"
-31,Juventude,"Caxias do Sul, Rio Grande do Sul, Brasil"
-32,Náutico,"Recife, Pernambuco, Brasil"
-33,Portuguesa,"São Paulo, São Paulo, Brasil"
-34,Ponte Preta,"Campinas, São Paulo, Brasil"
-35,Sport Recife,"Recife, Pernambuco, Brasil"
-36,Chapecoense,"Chapecó, Santa Catarina, Brasil"
-37,Criciúma EC,"Criciúma, Santa Catarina, Brasil"
-38,Paraná,
-39,Paysandu SC,"Belém, Pará, Brasil"
-40,São Caetano,"São Caetano do Sul, São Paulo, Brasil"
-41,Brasiliense-DF,"Taguatinga, Distrito Federal, Brasil"
-42,Santa Cruz,"Recife, Pernambuco, Brasil"
-43,Joinville-SC,"Joinville, Santa Catarina, Brasil"
-44,América-RN,"Natal, Rio Grande do Norte, Brasil"
-45,Santo André,"Santo André, São Paulo, Brasil"
-46,CSA,"Maceió, Alagoas, Brasil"
-47,Ipatinga FC,"Ipatinga, Brasil"
+id,Time,Localização,Estado
+1,Flamengo,"Rio de Janeiro, Rio de Janeiro, Brasil", Rio de Janeiro
+2,Internacional,"Porto Alegre, Rio Grande do Sul, Brasil", Rio Grande do Sul
+3,São Paulo,"São Paulo, São Paulo, Brasil", São Paulo
+4,Palmeiras,"São Paulo, São Paulo, Brasil", São Paulo
+5,Guarani,"Campinas, São Paulo, Brasil", São Paulo
+6,Santos FC,"Santos, São Paulo, Brasil", São Paulo
+7,Barueri,"Barueri, São Paulo, Brasil", São Paulo
+8,EC Vitória,"Salvador, Bahia, Brasil", Bahia
+9,Goiás EC,"Goiânia, Goiás, Brasil", Goiás
+10,Avaí FC,"Florianópolis, Santa Catarina, Brasil", Santa Catarina
+11,Cruzeiro,"Belo Horizonte, Minas Gerais, Brasil", Minas Gerais
+12,Corinthians,"São Paulo, São Paulo, Brasil", São Paulo
+13,Grêmio,"Porto Alegre, Rio Grande do Sul, Brasil", Rio Grande do Sul
+14,Vasco da Gama,"Bairro Vasco da Gama, Rio de Janeiro, Brasil", Rio de Janeiro
+15,Atlético-GO,"Goiânia, Goiás, Brasil", Goiás
+16,Botafogo,"Rio de Janeiro, Rio de Janeiro, Brasil", Rio de Janeiro
+17,Ceará SC,"Fortaleza, Ceará, Brasil", Ceará
+18,Fluminense,"Rio de Janeiro, Rio de Janeiro, Brasil", Rio de Janeiro
+19,Atlético-PR,"Curitiba, Paraná, Brasil", Paraná
+20,Atlético-MG,"Belo Horizonte, Minas Gerais, Brasil", Minas Gerais
+21,Athletico-PR,"Curitiba, Paraná, Brasil", Paraná
+22,Goiás,"Goiânia, Goiás, Brasil", Goiás
+23,EC Bahia,"Salvador, Bahia, Brasil", Bahia
+24,Coritiba FC,"Curitiba, Paraná, Brasil", Paraná
+25,Santos,"Santos, São Paulo, Brasil", São Paulo
+26,RB Bragantino,"Bragança Paulista, São Paulo, Brasil", São Paulo
+27,Fortaleza,"Fortaleza, Ceará, Brasil", Ceará
+28,América-MG,"Belo Horizonte, Minas Gerais, Brasil", Minas Gerais
+29,Cuiabá-MT,"Cuiabá, Mato Grosso, Brasil", Mato Grosso
+30,Figueirense FC,"Florianópolis, Santa Catarina, Brasil", Santa Catarina
+31,Juventude,"Caxias do Sul, Rio Grande do Sul, Brasil", Rio Grande do Sul
+32,Náutico,"Recife, Pernambuco, Brasil", Pernambuco
+33,Portuguesa,"São Paulo, São Paulo, Brasil", São Paulo
+34,Ponte Preta,"Campinas, São Paulo, Brasil", São Paulo
+35,Sport Recife,"Recife, Pernambuco, Brasil", Pernambuco
+36,Chapecoense,"Chapecó, Santa Catarina, Brasil", Santa Catarina
+37,Criciúma EC,"Criciúma, Santa Catarina, Brasil", Santa Catarina
+38,Paraná,"Curitiba, Paraná, Brasil", Paraná
+39,Paysandu SC,"Belém, Pará, Brasil", Pará
+40,São Caetano,"São Caetano do Sul, São Paulo, Brasil", São Paulo
+41,Brasiliense-DF,"Taguatinga, Distrito Federal, Brasil", Distrito Federal
+42,Santa Cruz,"Recife, Pernambuco, Brasil", Pernambuco
+43,Joinville-SC,"Joinville, Santa Catarina, Brasil", Santa Catarina
+44,América-RN,"Natal, Rio Grande do Norte, Brasil", Rio Grande do Norte
+45,Santo André,"Santo André, São Paulo, Brasil", São Paulo
+46,CSA,"Maceió, Alagoas, Brasil", Alagoas
+47,Ipatinga FC,"Ipatinga, Brasil",Ipatinga

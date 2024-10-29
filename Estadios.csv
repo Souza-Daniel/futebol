@@ -1,84 +1,84 @@
-id,Estadio,Localização
-1,Estádio Jornalista Mário Filho,"Rua Professor Eurico Rabelo, Rio de Janeiro (RJ), Brasil"
-2,Estádio Beira-Rio,"Avenida Padre Cacique, 891 - Praia de Belas, Porto Alegre, Rio Grande do Sul, Brasil"
-3,Estádio Cícero Pompeu de Toledo,"São Paulo, São Paulo, Brasil"
-4,Allianz Parque,"Rua Palestra Itália, 200 - Água Branca, São Paulo, São Paulo, Brasil"
-5,Estádio Brinco de Ouro da Princesa,"Campinas, São Paulo, Brasil"
-6,Estádio Urbano Caldeira,"Rua Princesa Isabel, s/nº - Santos, São Paulo, Brasil[2]"
-7,Estádio Municipal Eduardo José Farah,"Avenida Presidente Juscelino Kubitschek, s/nº - Presidente Prudente, São Paulo, Brasil"
-8,Estádio Manoel Barradas,"Salvador, Bahia, Brasil"
-9,Estádio do Governo do Estado de Goiás,Não Encontrado
-10,Estádio Aderbal Ramos da Silva,"Carianos, Florianópolis, Santa Catarina, Brasil"
-11,Estádio Governador Magalhães Pinto,"Belo Horizonte, Minas Gerais, Brasil"
-12,Estádio Municipal Paulo Machado de Carvalho,"Pacaembu, São Paulo, São Paulo, Brasil"
-13,Estádio Olímpico Monumental,"Porto Alegre, Rio Grande do Sul, Brasil"
-14,Estádio São Januário,"Avenida Roberto Dinamite, 10 - Vasco da Gama, Rio de Janeiro, Rio de Janeiro, Brasil 20921-060"
-15,Estádio Serra Dourada,"Avenida Fued José Sebba, 117, Jardim Goiás - Goiânia, Goiás, Brasil"
-16,Estádio Olímpico Nilton Santos,"Rio de Janeiro, Rio de Janeiro, Brasil"
-17,Estádio Governador Plácido Castelo,"Avenida Alberto Craveiro, 2901 - Fortaleza, Ceará, Brasil"
-18,Arena da Baixada,"Curitiba, Paraná, Brasil"
-19,Ligga Arena,"Curitiba, Paraná, Brasil"
-20,Estádio de Hailé Pinheiro,"Avenida Edmundo Pinheiro de Abreu, 721, Setor Bela Vista - Goiânia, Goiás, Brasil"
-21,Arena Fonte Nova,"Ladeira da Fonte das Pedras, Nazaré, Salvador, Bahia, Brasil"
-22,Estádio Durival Britto e Silva,"Curitiba, Paraná, Brasil"
+id,Estadio,Localização,Estado
+1,Estádio Jornalista Mário Filho,"Rua Professor Eurico Rabelo, Rio de Janeiro (RJ), Brasil",Rio de Janeiro
+2,Estádio Beira-Rio,"Avenida Padre Cacique, 891 - Praia de Belas, Porto Alegre, Rio Grande do Sul, Brasil",Rio Grande do Sul
+3,Estádio Cícero Pompeu de Toledo,"São Paulo, São Paulo, Brasil",São Paulo
+4,Allianz Parque,"Rua Palestra Itália, 200 - Água Branca, São Paulo, São Paulo, Brasil",São Paulo
+5,Estádio Brinco de Ouro da Princesa,"Campinas, São Paulo, Brasil",São Paulo
+6,Estádio Urbano Caldeira,"Rua Princesa Isabel, s/nº - Santos, São Paulo, Brasil[2]",São Paulo
+7,Estádio Municipal Eduardo José Farah,"Avenida Presidente Juscelino Kubitschek, s/nº - Presidente Prudente, São Paulo, Brasil",São Paulo
+8,Estádio Manoel Barradas,"Salvador, Bahia, Brasil",Bahia
+9,Estádio do Governo do Estado de Goiás,Não Encontrado,Não Encontrado
+10,Estádio Aderbal Ramos da Silva,"Carianos, Florianópolis, Santa Catarina, Brasil",Santa Catarina
+11,Estádio Governador Magalhães Pinto,"Belo Horizonte, Minas Gerais, Brasil",Minas Gerais
+12,Estádio Municipal Paulo Machado de Carvalho,"Pacaembu, São Paulo, São Paulo, Brasil",São Paulo
+13,Estádio Olímpico Monumental,"Porto Alegre, Rio Grande do Sul, Brasil",Rio Grande do Sul
+14,Estádio São Januário,"Avenida Roberto Dinamite, 10 - Vasco da Gama, Rio de Janeiro, Rio de Janeiro, Brasil 20921-060",Rio de Janeiro
+15,Estádio Serra Dourada,"Avenida Fued José Sebba, 117, Jardim Goiás - Goiânia, Goiás, Brasil",Goiás
+16,Estádio Olímpico Nilton Santos,"Rio de Janeiro, Rio de Janeiro, Brasil",Rio de Janeiro
+17,Estádio Governador Plácido Castelo,"Avenida Alberto Craveiro, 2901 - Fortaleza, Ceará, Brasil",Ceará
+18,Arena da Baixada,"Curitiba, Paraná, Brasil",Paraná
+19,Ligga Arena,"Curitiba, Paraná, Brasil",Paraná
+20,Estádio de Hailé Pinheiro,"Avenida Edmundo Pinheiro de Abreu, 721, Setor Bela Vista - Goiânia, Goiás, Brasil",Goiás
+21,Arena Fonte Nova,"Ladeira da Fonte das Pedras, Nazaré, Salvador, Bahia, Brasil",Bahia
+22,Estádio Durival Britto e Silva,"Curitiba, Paraná, Brasil",Paraná
 23,Neo Química Arena,"Av. Miguel Ignácio Curi, 111
-Itaquera, São Paulo, São Paulo, Brasil[2]"
-24,Estádio Major Antônio Couto Pereira,"Curitiba, Paraná, Brasil"
-25,Estádio General Sylvio Raulino de Oliveira,"Volta Redonda, Rio de Janeiro, Brasil"
-26,Estádio Raimundo Sampaio,"Horto, Belo Horizonte, Minas Gerais, Brasil"
-27,Arena do Grêmio,"Farrapos, Porto Alegre, Rio Grande do Sul, Brasil[2]"
-28,Estádio Luso Brasileiro,"Rua Haroldo Lobo, 400 - Rio de Janeiro, Rio de Janeiro, Brasil"
-29,Estádio Nabi Abi Chedid,"Bragança Paulista, São Paulo, Brasil"
-30,Arena MRV,"Belo Horizonte, Minas Gerais, Brasil"
-31,Arena Barueri,"Barueri, São Paulo, Brasil"
-32,Arena Pantanal,"Cuiabá, Mato Grosso, Brasil"
-33,Estádio Alfredo Jaconi,"Caxias do Sul, Rio Grande do Sul"
-34,Estádio Municipal Parque do Sabiá,"Uberlândia, MG, Brasil"
-35,Estádio Joaquim Henrique Nogueira,"Sete Lagoas, MG, Brasil"
-36,Estádio Nacional de Brasília Mané Garrincha,"SRPN (Setor de Recreação Pública Norte), Brasília, Distrito Federal, Brasil"
-37,Estádio Estadual Kléber José de Andrade,Não Encontrado
-38,Estádio Orlando Scarpelli,"Florianópolis, Santa Catarina, Brasil"
-39,Estádio Governador Roberto Santos,Não Encontrado
-40,Estádio Antonio Accioly,"Avenida Perimetral, Setor Campinas - Goiânia, Goiás, Brasil"
-41,Estádio Eládio de Barros Carvalho,"Recife, Pernambuco, Brasil"
-42,Estádio Doutor Osvaldo Texeira Duarte,Não Encontrado
-43,Estádio Moisés Lucarelli,"Campinas, São Paulo, Brasil"
-44,Estádio Elmo Serejo Farias,"Taguatinga, Distrito Federal, Brasil"
-45,Estádio Valmir Campelo Bezerra,Não Encontrado
-46,Estádio Adelmar da Costa Carvalho,"Recife, Pernambuco, Brasil"
-47,Arena Condá,"Centro, Chapecó, Santa Catarina, Brasil"
-48,Arena de Pernambuco,"São Lourenço da Mata, Pernambuco, Brasil"
-49,Estádio Paulo Constantino,"Avenida Presidente Juscelino Kubitschek, s/nº - Presidente Prudente, São Paulo, Brasil"
-50,Estádio Municipal Radialista Mário Helênio,"Juiz de Fora, Minas Gerais, Brasil"
-51,Estádio Francisco Stédile,"Caxias do Sul, Rio Grande do Sul, Brasil"
-52,Estádio Vail Chaves,"Mogi Mirim, São Paulo, Brasil"
-53,Estádio do Vale,"Novo Hamburgo, Rio Grande do Sul, Brasil"
-54,Estádio Heriberto Hülse,"Criciúma, Santa Catarina, Brasil"
-55,Estádio Cláudio Moacyr de Azevedo,"Avenida Luiz Lírio, s/nº - Barra de Macaé, RJ, Brasil"
-56,Estádio General Sílvio Raulino de Oliveira,Não Encontrado
-57,Estádio Municipal Doutor Novelli Júnior,"Itu, SP, Brasil"
-58,Arena Joinville,"Joinville, Santa Catarina, Brasil"
-59,Estádio Benedito Teixeira,"São José do Rio Preto, São Paulo, Brasil"
-60,Estádio Estadual Lourival Baptista,"Aracaju, SE"
-61,Estádio Alberto Oliveira,"Feira de Santana, Bahia, Brasil"
-62,Estádio Érton Coelho de Queiroz,"Curitiba, Paraná, Brasil"
-63,Estádio Universitário Pedro Pedrossian,"Campo Grande, Mato Grosso do Sul,  Brasil"
-64,MorumBIS,Não Encontrado
-65,Estádio Presidente Vargas,Não Encontrado
-66,Estádio Estadual Jornalista Edgar Augusto Proença,"Belém, Pará, Brasil"
-67,Estádio Municipal Anacleto Campanella,"São Caetano do Sul, São Paulo, Brasil"
-68,Estádio Municipal João Lamego Netto,"Ipatinga, Minas Gerais, Brasil"
-69,Estádio Municipal Jacy Scaff,"Londrina, Paraná, Brasil"
-70,Campus Realzale Gazteak,Não Encontrado
-71,Estádio Governador João Castelo - Castelão,Não Encontrado
-72,Estádio Doutor Adhemar de Barros,"Araraquara, São Paulo, Brasil"
-73,Estádio José do Rego Maciel,"Recife, Pernambuco, Brasil"
-74,Estadio Parque Maracaná,Não Encontrado
-75,Estádio Giulite Coutinho,"Mesquita, RJ, Brasil"
-76,Arena das Dunas,"Avenida Prudente de Morais, 5121 (Lagoa Nova), Natal, Rio Grande do Norte, Brasil[2]"
-77,Pinheirão,"Avenida Victor Ferreira do Amaral, 1930 (Tarumã) - Curitiba, Paraná, Brasil"
-78,Estádio João Cláudio de Vasconcelos Machado,"Natal, Rio Grande do Norte, Brasil"
-79,Estádio Olímpico Pedro Ludovico Teixeira,"Goiânia, Goiás, Brasil"
-80,Estádio Bruno José Daniel,"Santo André, SP, Brasil"
-81,Estádio Rei Pelé,"Maceió, Alagoas, Brasil"
-82,Arena da Amazônia,"Av. Constantino Nery, 5001 Flores, Manaus, Brasil"
+Itaquera, São Paulo, São Paulo, Brasil[2]",São Paulo
+24,Estádio Major Antônio Couto Pereira,"Curitiba, Paraná, Brasil",Paraná
+25,Estádio General Sylvio Raulino de Oliveira,"Volta Redonda, Rio de Janeiro, Brasil",Rio de Janeiro
+26,Estádio Raimundo Sampaio,"Horto, Belo Horizonte, Minas Gerais, Brasil",Minas Gerais
+27,Arena do Grêmio,"Farrapos, Porto Alegre, Rio Grande do Sul, Brasil[2]",Rio Grande do Sul
+28,Estádio Luso Brasileiro,"Rua Haroldo Lobo, 400 - Rio de Janeiro, Rio de Janeiro, Brasil",Rio de Janeiro
+29,Estádio Nabi Abi Chedid,"Bragança Paulista, São Paulo, Brasil",São Paulo
+30,Arena MRV,"Belo Horizonte, Minas Gerais, Brasil",Minas Gerais
+31,Arena Barueri,"Barueri, São Paulo, Brasil",São Paulo
+32,Arena Pantanal,"Cuiabá, Mato Grosso, Brasil",Mato Grosso
+33,Estádio Alfredo Jaconi,"Caxias do Sul, Rio Grande do Sul",Rio Grande do Sul
+34,Estádio Municipal Parque do Sabiá,"Uberlândia, MG, Brasil",Minas Gerais
+35,Estádio Joaquim Henrique Nogueira,"Sete Lagoas, MG, Brasil",Minas Gerais
+36,Estádio Nacional de Brasília Mané Garrincha,"SRPN (Setor de Recreação Pública Norte), Brasília, Distrito Federal, Brasil",Distrito Federal
+37,Estádio Estadual Kléber José de Andrade,Não Encontrado,Não Encontrado
+38,Estádio Orlando Scarpelli,"Florianópolis, Santa Catarina, Brasil",Santa Catarina
+39,Estádio Governador Roberto Santos,Não Encontrado,Não Encontrado
+40,Estádio Antonio Accioly,"Avenida Perimetral, Setor Campinas - Goiânia, Goiás, Brasil",Goiás
+41,Estádio Eládio de Barros Carvalho,"Recife, Pernambuco, Brasil",Pernambuco
+42,Estádio Doutor Osvaldo Texeira Duarte,Não Encontrado,Não Encontrado
+43,Estádio Moisés Lucarelli,"Campinas, São Paulo, Brasil",São Paulo
+44,Estádio Elmo Serejo Farias,"Taguatinga, Distrito Federal, Brasil",Distrito Federal
+45,Estádio Valmir Campelo Bezerra,Não Encontrado,Não Encontrado
+46,Estádio Adelmar da Costa Carvalho,"Recife, Pernambuco, Brasil",Pernambuco
+47,Arena Condá,"Centro, Chapecó, Santa Catarina, Brasil",Santa Catarina
+48,Arena de Pernambuco,"São Lourenço da Mata, Pernambuco, Brasil",Pernambuco
+49,Estádio Paulo Constantino,"Avenida Presidente Juscelino Kubitschek, s/nº - Presidente Prudente, São Paulo, Brasil",São Paulo
+50,Estádio Municipal Radialista Mário Helênio,"Juiz de Fora, Minas Gerais, Brasil",Minas Gerais
+51,Estádio Francisco Stédile,"Caxias do Sul, Rio Grande do Sul, Brasil",Rio Grande do Sul
+52,Estádio Vail Chaves,"Mogi Mirim, São Paulo, Brasil",São Paulo
+53,Estádio do Vale,"Novo Hamburgo, Rio Grande do Sul, Brasil",Rio Grande do Sul
+54,Estádio Heriberto Hülse,"Criciúma, Santa Catarina, Brasil",Santa Catarina
+55,Estádio Cláudio Moacyr de Azevedo,"Avenida Luiz Lírio, s/nº - Barra de Macaé, RJ, Brasil",Rio de Janeiro
+56,Estádio General Sílvio Raulino de Oliveira,Não Encontrado,Não Encontrado
+57,Estádio Municipal Doutor Novelli Júnior,"Itu, SP, Brasil",São Paulo
+58,Arena Joinville,"Joinville, Santa Catarina, Brasil",Santa Catarina
+59,Estádio Benedito Teixeira,"São José do Rio Preto, São Paulo, Brasil",São Paulo
+60,Estádio Estadual Lourival Baptista,"Aracaju, SE",Sergipe
+61,Estádio Alberto Oliveira,"Feira de Santana, Bahia, Brasil",Bahia
+62,Estádio Érton Coelho de Queiroz,"Curitiba, Paraná, Brasil",Paraná
+63,Estádio Universitário Pedro Pedrossian,"Campo Grande, Mato Grosso do Sul,  Brasil",Mato Grosso do Sul
+64,MorumBIS,Não Encontrado,Não Encontrado
+65,Estádio Presidente Vargas,Não Encontrado,Não Encontrado
+66,Estádio Estadual Jornalista Edgar Augusto Proença,"Belém, Pará, Brasil",Pará
+67,Estádio Municipal Anacleto Campanella,"São Caetano do Sul, São Paulo, Brasil",São Paulo
+68,Estádio Municipal João Lamego Netto,"Ipatinga, Minas Gerais, Brasil",Minas Gerais
+69,Estádio Municipal Jacy Scaff,"Londrina, Paraná, Brasil",Paraná
+70,Campus Realzale Gazteak,Não Encontrado,Não Encontrado
+71,Estádio Governador João Castelo - Castelão,Não Encontrado,Não Encontrado
+72,Estádio Doutor Adhemar de Barros,"Araraquara, São Paulo, Brasil",São Paulo
+73,Estádio José do Rego Maciel,"Recife, Pernambuco, Brasil",Pernambuco
+74,Estadio Parque Maracaná,Não Encontrado,Não Encontrado
+75,Estádio Giulite Coutinho,"Mesquita, RJ, Brasil",Rio de Janeiro
+76,Arena das Dunas,"Avenida Prudente de Morais, 5121 (Lagoa Nova), Natal, Rio Grande do Norte, Brasil[2]",Rio Grande do Norte
+77,Pinheirão,"Avenida Victor Ferreira do Amaral, 1930 (Tarumã) - Curitiba, Paraná, Brasil",Paraná
+78,Estádio João Cláudio de Vasconcelos Machado,"Natal, Rio Grande do Norte, Brasil",Rio Grande do Norte
+79,Estádio Olímpico Pedro Ludovico Teixeira,"Goiânia, Goiás, Brasil",Goiás
+80,Estádio Bruno José Daniel,"Santo André, SP, Brasil",São Paulo
+81,Estádio Rei Pelé,"Maceió, Alagoas, Brasil",Alagoas
+82,Arena da Amazônia,"Av. Constantino Nery, 5001 Flores, Manaus, Brasil",Manaus
